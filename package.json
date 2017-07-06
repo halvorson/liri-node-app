@@ -1,0 +1,20 @@
+{
+  "name": "liri-node-app",
+  "version": "0.1.0",
+  "description": "Homework for coding bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node liri.js"
+  },
+  "dependencies": {
+    "node-spotify-api": "^1.0.5",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halvorson/liri-node-app"
+  },
+  "author": "Michael Halvorson",
+  "license": "MIT"
+}
