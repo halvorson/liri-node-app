@@ -1,2 +1,6 @@
 Function, arguments, timestamp
-movie-this, Remember the Titans, Sat Jul 08 2017 12:39:00 GMT-0700 (PDT)
+movie-this, Remember the Titans, Sat Jul 08 2017 12:39:00 GMT-0700 (PDT) 
+spotify-this-song, bump and grind, Sat Jul 08 2017 12:44:48 GMT-0700 (PDT) 
+spotify-this-song, say you wont let go
+, Sat Jul 08 2017 12:45:03 GMT-0700 (PDT) 
+spotify-this-song, this love, Sat Jul 08 2017 12:46:18 GMT-0700 (PDT)
